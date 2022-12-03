@@ -1,0 +1,22 @@
+.cardStyle {
+  height: 120px;
+  width: 400px;
+  background-color: transparent;
+  border-radius: 10px;
+  border-width: 15px;
+  margin: 5px;
+  display: flex;
+  flex-direction: row;
+}
+
+.iconSize {
+  height: 80%;
+  width: 100px;
+}
+
+.teamName {
+  font-family: Roboto;
+  color: white;
+  font-size: 30px;
+  font-weight: 200;
+}
